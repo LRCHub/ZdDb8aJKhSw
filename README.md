@@ -1,0 +1,78 @@
+# シーズ – Break Chain
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Gotta tick-tock
+どんな時もNever switch off
+止まれないからじっと
+することでさえも
+避け続けていたわ
+先へ進むことだけ
+強く囚われた My way
+結果同じ道なぞっていたこと
+気付けないまま I can't turn back
+繰り返す Day by day
+無意識に Held by chain
+音も立てず近づく Like a trap
+So now I can't take a step
+抜け出す方法をずっとあれこれ
+探るよりもいっそ
+Break Chain
+No more refrain
+Break Chain
+No pain no gain
+断ち切るわ
+代わり映えない Cycle
+解けない鎖なんてないの
+ここで Prove the difference
+So it's a new world
+常識も限界も
+超えていくから
+心配しないでいいよ
+I'll break the chain
+閉ざされたなら Knock the door
+そびえ立つなら Kick the wall
+信じる自分のやり方できっと
+I'll pave the way
+Never escape
+過去見た景色が Refrain
+デジャブだって Don't afraid
+答え合わせに意味なんてない
+今だけ刻んで
+その場で何度も足踏みして
+悩むよりもいっそ
+Break Chain
+No more refrain
+Break Chain
+No pain no gain
+途切れないわ
+時が描いた Circle
+塞がれた未来は存在しない
+Cause I claim freedom
+So it's a new world
+ルールや過去でさえも
+思うまま Rewrite it, fight it
+何度だって Break the chain
+傷ついて癒えてきっと
+徐々にでも I'll be strong
+痛みだって未来のため
+乗り越えてくわ It's alright!
+断ち切るわ
+代わり映えないCycle
+解けない鎖なんてないの
+ここでProve the difference
+So it's a new world
+常識も限界も
+超えていくから
+心配しないでいいよ
+I break the chain
+見えない出口 Stuck on the loop
+焦らないでただ Keep on the move (No pain)
+新たな道を Write in the book
+囚われないのが It's my rule (No gain)
+見えない出口 Stuck on the loop
+焦らないでただ Keep on the move (Break Chain)
+新たな道を Write in the book
+今この手で Break Chain
+```
