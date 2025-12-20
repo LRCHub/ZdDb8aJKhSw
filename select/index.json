@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Break Chain",
+  "base_artist": "シーズ",
+  "createdAt": "2025-12-20T14:16:35.531675Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break Chain",
+      "artist": "シーズ",
+      "has_synced": false,
+      "path": "select/pl_01_Break_Chain_シーズ.txt"
+    }
+  ]
+}
